@@ -1,5 +1,5 @@
 import React from "react";
-import FC from "./projects/Functionalcomp";
+// import FC from "./projects/Functionalcomp";
 import { Classcomp} from "./projects/classcomp";
 import {Classcomp1} from "./projects/classcomp";
 import Click from "./click";
